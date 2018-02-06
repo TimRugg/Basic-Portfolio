@@ -137,7 +137,7 @@ textarea {
 .main_content_portfolio1{
 	width: 334px;
 	height: 665px;
-	position:absolute;
+	/* position:absolute; */
 	top: 0;
 	left: 0;
 }
